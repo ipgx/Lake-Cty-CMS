@@ -2,16 +2,32 @@ library(tmaptools)
 library(leaflet)
 library(tidygeocoder)
 library(tibble)
+library(tidycensus)
+library(sf)
+
+setwd("C:\\Users\\paragg\\Documents\\CMS-GIS\\Lake-Cty-CMS")
+
+
+fips_Codes <- fips_codes
+fl_county <- get_acs(geography = "county",
+                       state = "FL", 
+                       geometry = T, 
+                       table = "B02001",
+                      output = "wide")
+
+lake_county <- fl_county[fl_county$GEOID == "12069", ]
+
 
 combine_columns <- function(csv_file_path) {
   # Read the CSV file
   df <- read.csv(csv_file_path)
+  print(head(df))
   
   # Combine first and second columns with " & "
-  df$Road_From <- paste(df[, 1], "&", df[, 2], ", Lake County, FL")
+  df$Road_From <- paste(df[, 2], "&", df[, 3], ", Lake County, FL")
   
   # Combine first and third columns with " & "
-  df$Road_To <- paste(df[, 1], "&", df[, 3], ", Lake County, FL")
+  df$Road_To <- paste(df[, 2], "&", df[, 4], ", Lake County, FL")
   
   # Return the modified dataframe
   return(df)
@@ -23,34 +39,47 @@ combine_columns <- function(csv_file_path) {
 
 # Run the function with the Segments.csv file
 result_df <- combine_columns("Segments.csv")
-
-# Display the first few rows
 head(result_df)
-result_df <- result_df %>%
-   mutate(address = Road_To)
+# Display the first few rows
+
+
 
 #locations_txt <- data.frame(location = c("Alvin, TX, USA", "Athens, GA, USA"))
 # nominatim_loc_geo <- geocode_OSM(result_df$Road_From[1], as.data.frame = TRUE)
 # print(nominatim_loc_geo)
 
+result_df <- result_df %>%
+  mutate(address = Road_From)
 
-
-x_to <- result_df %>%
-  select(1,6) %>% 
+x_from <- result_df %>%
+  select(1,7) %>% 
   geocode(address, method = 'arcgis') # , lat = latitude , long = longitude
 
+result_df <- result_df %>%
+  mutate(address_2 = Road_To)
+
+x_to <- result_df %>%
+  select(1,8) %>% 
+  geocode(address_2, method = 'arcgis') 
+
 
 leaflet() %>%
   addTiles() %>%
+    addCircleMarkers(lat = x_from$lat,
+                     lng = x_from$long,
+                     popup = x_from$address,
+                     color = "red",
+                     group = "FROM") %>%
     addCircleMarkers(lat = x_to$lat,
                      lng = x_to$long,
-                     popup = x_to$address)
+                     color = "green",
+                      popup = x_to$address_2,
+                     group = "TO") %>%
+  addPolygons(data = st_transform(lake_county, 4326),
+              color = "black", opacity = 0.5, group = "COUNTY") %>%
+  addLayersControl(overlayGroups = c("FROM", "TO", "COUNTY"))
 
-leaflet() %>%
-  addTiles() %>%
-  addCircleMarkers(lat = x$lat,
-                   lng = x$long,
-                   popup = x$address)
+
 
 # library(mapsapi)
 # Define the address and your API key
