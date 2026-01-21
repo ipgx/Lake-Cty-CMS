@@ -1,5 +1,8 @@
 # TIA TOOL - BETTER NAME GOES HERE
 
+### RIVER OF IDEAS
+    - NOTION - https://res-std.notion.site/Software-Projects-2025-2ed72a3a837f800f9bb8debffbf626d5?source=copy_link
+  
 ### STAGE 1
     - Scope: Lake County, Apopka and Orange County 
     - Every data point will be vetted
@@ -26,9 +29,20 @@
   
 ### Segments Significance Test
 
-    - Give user the option to locate the site on the map with Search. bar using Google Maps API, 
+    - Digitize CMS Worksheets 
+      - Nodes : Geocode
+      - Links : Routing
+      - Map : MapLibre
+    - Give user the option to locate the site on the map with Search Bar using Google Maps API
     - Do buffer calculations
-    - Create a 50/50 table view with map. 
-    - Select segments by clicking on map or 
-    - Using the table view 
-    - Show the results of the buffer calculations as default view
+    - Create a 50/50 table view with map
+    - Select segments 
+      - By clicking on map or 
+      - Using the table view 
+      - Show the results of the buffer calculations as default view
+      - Enter Trip Distribution Percentages
+      - Show Significance Percentages 
+        - when the user is entering percentages
+        - they can also select the direction of Enter & Exit
+        - Show label as percentage
+        - Arrow for Entering/Exit Direction
