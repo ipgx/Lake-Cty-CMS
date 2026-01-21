@@ -1,0 +1,194 @@
+ID,Roadway,From,To
+411,10th St,Alabama Ave,Sheeler Ave
+840,13th St,Ocoee-Apopka Rd,Park Ave
+841,13th St,Park Ave,Apopka Blvd
+401,2nd St (Monroe Ave),Central Ave,Park Ave
+403,5th St,Park Ave,Highland Ave
+650,6th St,Park Ave,Alabama Ave
+410,6th St,Alabama Ave,US 441
+404,8th St,Park Ave,Highland Ave
+333,9th St,Central Ave,Park Ave
+409,Alabama Ave,Monroe Ave,US 441
+971,Appy Ln,Plymouth-Sorrento Rd (CR 437),Jason Dwelley Pkwy
+404*,Binion Rd/Orange Ave,Lakeview Dr,US 441
+"(404, 327)*",Binion Rd/Orange Ave,Boy Scout Rd,Lakeview Dr
+28*,Binion Rd/Orange Ave,Ocoee-Apopka Rd,Harmon Rd
+673,Binion Rd/Orange Ave,Harmon Rd,Boy Scout Rd
+556,Boy Scout Rd,Binion Rd,Ocoee-Apopka Rd
+557,Bradshaw Rd,US 441,Ocoee-Apopka Rd
+33*,CR 424 (Alabama Ave/Apopka Blvd),Hiawassee Rd,Overland Rd
+1008*,CR 424 (Alabama Ave/Apopka Blvd),8th St,Sheeler Rd
+671,CR 424 (Alabama Ave/Apopka Blvd),Overland Rd,US 441
+658,CR 424 (Alabama Ave/Apopka Blvd),Lakeville Rd,Hiawassee Rd
+7033*,CR 424 (Alabama Ave/Apopka Blvd),Sheeler Rd,Lakeville Rd
+670,CR 424 (Alabama Ave/Apopka Blvd),US 441,8th St
+"(32, 7004)*",CR 435 (Rock Spring Rd/Park Ave/Clarcona Rd),Keene Rd,McCormick Rd
+328*,CR 435 (Rock Spring Rd/Park Ave/Clarcona Rd),M. Gladden Blvd,Cleveland St
+426*,CR 435 (Rock Spring Rd/Park Ave/Clarcona Rd),Votaw Rd,Orange St
+21*,CR 435 (Rock Spring Rd/Park Ave/Clarcona Rd),Welch Rd,Sandpiper Rd
+19*,CR 435 (Rock Spring Rd/Park Ave/Clarcona Rd),Ponkan Rd,Welch Rd
+7004,CR 435 (Rock Spring Rd/Park Ave/Clarcona Rd),McCormick Rd,Clarcona-Ocoee Rd
+516,CR 435 (Rock Spring Rd/Park Ave/Clarcona Rd),Sandpiper Rd,Votaw Rd
+563,CR 435 (Rock Spring Rd/Park Ave/Clarcona Rd),US 441,M. Gladden Blvd
+580,CR 435 (Rock Spring Rd/Park Ave/Clarcona Rd),Orange St,US 441
+7005*,CR 435 (Rock Spring Rd/Park Ave/Clarcona Rd),Cleveland St,Keene Rd
+18*,CR 435 (Rock Spring Rd/Park Ave/Clarcona Rd),Kelly Park Rd,Ponkan Rd
+27*,CR 437A (Ocoee-Apopka Rd/Michael Gladden Blvd/Central Ave),Harmon Rd,Bradshaw Rd
+7083*,CR 437A (Ocoee-Apopka Rd/Michael Gladden Blvd/Central Ave),Bradshaw Rd,Park Ave
+"(27, 29)*",CR 437A (Ocoee-Apopka Rd/Michael Gladden Blvd/Central Ave),Alston Bay Blvd,Harmon Rd
+29,CR 437A (Ocoee-Apopka Rd/Michael Gladden Blvd/Central Ave),Keene Rd,Alston Bay Blvd
+702,CR 437A (Ocoee-Apopka Rd/Michael Gladden Blvd/Central Ave),Binion Rd,Keene Rd
+520,Christiana Ave,Monroe Ave,Votaw Rd
+655,Cleveland St,Park Ave,Sheeler Rd
+414,E 5th Street,S Central Ave,Park Avenue
+408,Edgewood Dr,Monroe Ave,US 441
+508,Errol Pkwy,Lake Francis Dr,Lake Alden Dr
+509,Errol Pkwy,Lake Alden Dr,Old Dixie Hwy
+541,Errol Pkwy,Old Dixie Hwy,US 441
+931,General Electric Rd,Hermit Smith Rd,Orange Ave
+909,Golden Gem Rd,Kelly Park Rd,Sadler Rd
+910,Golden Gem Rd,Sadler Rd,Ponkan Rd
+820,Greenacre Rd,Piedmont-Wekiwa Rd,Neil Rd
+920,Haas Rd,Plymouth-Sorrento Rd (CR 437),Mt Plymouth Rd
+972,Harmon Rd,Binion Rd,Ocoee-Apopka Rd
+975,Harmon Road,Ocoee Apopka Road,Marden Road
+561,Hawthorne Ave,Ocoee-Apopka Rd,13th St
+562,Hawthorne Ave,US 441,Ocoee-Apopka Rd
+950,Hermit Smith Rd,US 441,General Electric Rd
+951,Hermit Smith Rd,Plymouth-Sorrento Rd (CR 437),US 441
+952,Hermit Smith Rd,General Electric Rd,US 441
+406,Highland Ave,US 441,6th St
+405,Highland Ave,Monroe Ave,US 441
+973,Hogshead Rd,Hermit Smith Rd,Conrad Rd
+956,Jason Dwelley Pkwy,Kelly Park Rd,Spinfisher Dr
+958,Jason Dwelley Pkwy,Spinfisher Dr,White Dahlia Dr
+960,Jason Dwelley Pkwy,White Dahlia Dr,Ponkan Rd
+7090*,Keene Rd,Clarcona Rd,Sheeler Rd
+8066*,Keene Rd,Ocoee-Apopka Rd,Marden Rd
+568,Keene Rd,Marden Rd,Clarcona Rd
+12*,Kelly Park Rd,Mt. Plymouth Rd,Rock Springs Rd
+9*,Kelly Park Rd,SR 429,Plymouth-Sorrento Rd (CR 437)
+12,Kelly Park Rd,Jason Dwelley Pkwy,Mt. Plymouth Rd
+9.1,Kelly Park Rd,Round Lake Rd,SR 429
+9,Kelly Park Rd,Plymouth-Sorrento Rd (CR 437),Jason Dwelley Pkwy
+10.1,Kelly Park Road,SR 429,Plymouth Sorrento Road
+9002,Kelly Park Road,Round Lake Road,Waypointe Blvd
+585,King St,Peterson Rd,Orange Ave
+402,Lake Ave/Marvin C Zanders Ave,US 441,4th St
+513,Lake Ave/Marvin C Zanders Ave,Martin St,Orange St
+515,Lake Ave/Marvin C Zanders Ave,Orange St,US 441
+811,Lake Cortez Dr,SR 436,Evelyn Dr
+1015,Lake Doe Blvd,US 441,Dunn Cove Dr
+504,Lake Francis Dr,Errol Pkwy,Vick Rd
+505,Lake Francis Dr,Schopke Lester Rd,Errol Pkwy
+67*,Lakeville Rd,Beggs Rd,Clarcona Ocoee Rd
+657,Lakeville Rd,Apopka Blvd,Wildwood St
+"(30, 31)*",Lakeville Rd,Wildwood St,Beggs Rd
+801,Lester Rd,Schopke Lester Rd,Plymouth-Sorrento Rd (CR 437)
+506,Lester Rd,Vick Rd,Schopke Lester Rd
+583,Lester Rd,Rock Springs Rd,Vick Rd
+526,Lust Rd,Binion Rd,Avian Pointe Blvd
+413,Magee Avenue,US 441,E 6th Street
+412,Magee Avenue,Monroe Ave,US 441
+569,Marden Rd,SR 414,Keene Rd
+560,Marden Rd,Marden Ridge Lp,SR 414
+555,Marden Rd,Ocoee-Apopka Rd,Marden Ridge Lp
+584,Marshall Lake Rd,SR 451,Bradshaw Rd
+519,Martin St,Park Ave,Lake Ave
+830,Martin St,Maine Ave,Vick Rd
+407,Midland Ave,US 441,6th St
+603,Monroe Ave,Park Ave,Alabama Ave
+604,Monroe Ave,Alabama Ave,Sheeler Rd
+17*,Mt. Plymouth Rd,Kelly Park Rd,Haas Rd
+17.1,Mt. Plymouth Rd,Haas Rd,Lake County Line
+512,North Maine Ave,Martin St,Old Dixie Hwy
+674,Old Dixie Hwy/West Highland Ave/Orange St,Vick Rd,Bradshaw Rd
+510,Old Dixie Hwy/West Highland Ave/Orange St,Boy Scout Blvd,Errol Pkwy
+511,Old Dixie Hwy/West Highland Ave/Orange St,Errol Pkwy,Vick Rd
+514,Old Dixie Hwy/West Highland Ave/Orange St,Hawthorne Ave,Park Ave
+518,Old Dixie Hwy/West Highland Ave/Orange St,Bradshaw Rd,Hawthorne Ave
+582,Old Dixie Hwy/West Highland Ave/Orange St,Plymouth-Sorrento Rd (CR 437),Boy Scout Blvd
+817,Ondich Rd,Effie Dr,Plymouth-Sorrento Rd (CR 437)
+901,Ondich Rd,Round Lake Rd,Effie Dr
+672,Overland Rd,Apopka Rd,Beggs Rd
+586,Peterson Rd,Grand Avian Pkwy,King St
+"(11, 8164)*",Plymouth-Sorrento Rd,Appy Ln,Ponkan Rd
+14*,Plymouth-Sorrento Rd,County Line,Kelly Park Rd
+542,Plymouth-Sorrento Rd,Lester Rd/Yothers Rd,SR 429 Connector Rd
+543,Plymouth-Sorrento Rd,SR 429 Connector Rd,US 441
+544,Plymouth-Sorrento Rd,Kelly Park Rd,Appy Ln
+10*,Plymouth-Sorrento Rd,Ponkan Rd,Lester Rd/Yothers Rd
+"(8115, 326)*",Ponkan Rd,Plymouth-Sorrento Rd (CR 437),Vick Rd
+"(13, 14)*",Ponkan Rd,Round Lake Rd,Plymouth-Sorrento Rd (CR 437)
+326*,Ponkan Rd,Vick Rd,Rock Springs Rd
+540,Rock Ridge Blvd,Rock Springs Rd,Haddington Ct
+613,Roger Williams Rd,US 441,SR 436
+976,Rogers Rd,Lester Rd,Gray Stone
+8*,Round Lake Rd,Sadler Ave,Kelly Park Rd
+"(8, 8067)*",Round Lake Rd,Ponkan Rd,Sadler Ave
+6*,Round Lake Rd,Ondich Rd,Lake County Line
+6*,Round Lake Rd,Kelly Park Rd,Ondich Rd
+980,SR 429 Connector,US 441,Plymouth-Sorrento Rd (CR 437)
+3,SR 429 Connector Road,US 441,Plymouth Sorrento Road
+608,SR 436 (Semoran Blvd),Thompson Rd,Roger Williams Rd
+295,SR 436 (Semoran Blvd),US 441,Sheeler Rd
+295,SR 436 (Semoran Blvd),Sheeler Rd,Thompson Rd
+295*,SR 436 (Semoran Blvd),Roger Williams Rd,Piedmont-Wekiva Rd
+5*,SR 436 (Semoran Blvd),Piedmont-Wekiva Rd,Seminole County Ln
+601,Sandpiper Rd,Ustler Rd,Thompson Rd
+600,Sandpiper Rd,Park Ave,Ustler Rd
+507,Schopke-Lester Rd,Lester Rd,Old Dixie Hwy
+701,Sheeler Oaks Dr,Sheeler Rd,Saddleback Ridge
+656,Sheeler Rd,Cleveland St,Keene Rd
+7006*,Sheeler Rd,US 441,Apopka Blvd
+605,Sheeler Rd,SR 436,US 441
+7007*,Sheeler Rd,Apopka Blvd,Cleveland St
+521,Summit St,Rock Springs Rd,Lake Ave
+611,Tanglewild St,Rock Springs Rd,Ulster Rd
+24*,Thompson Rd,Votaw Rd,SR 436
+429*,Thompson Rd,Welch Rd,Votaw Rd
+552,US 441 (Orange Blossom Tr),Bradshaw Rd,Hawthorne Ave
+82*,US 441 (Orange Blossom Tr),Boy Scout Blvd,Errol Pkwy
+661,US 441 (Orange Blossom Tr),SR 436,Sheeler Rd
+530,US 441 (Orange Blossom Tr),Church Dr/Yothers Rd,SR 429 Connector Rd
+609,US 441 (Orange Blossom Tr),Highland Ave,Alabama Ave
+2*,US 441 (Orange Blossom Tr),Ponkan Rd,Church Dr/Yothers Rd
+"2, 3",US 441 (Orange Blossom Tr),SR 429 Connector Rd,Plymouth Sorrento Rd (CR 437)
+531,US 441 (Orange Blossom Tr),SR 451,Bradshaw Rd
+82*,US 441 (Orange Blossom Tr),Errol Pkwy,SR 451
+5099*,US 441 (Orange Blossom Tr),Central Ave,Park Ave
+5099*,US 441 (Orange Blossom Tr),Hawthorne Ave,Central Ave
+33*,US 441 (Orange Blossom Tr),Piedmont-Wekiva Rd,Seminole County Ln
+5096*,US 441 (Orange Blossom Tr),Roger Williams Rd,Piedmont-Wekiva Rd
+550,US 441 (Orange Blossom Tr),Plymouth Sorrento Rd (CR 437),Boy Scout Blvd
+5098*,US 441 (Orange Blossom Tr),Alabama Ave,SR 436
+5098*,US 441 (Orange Blossom Tr),Park Ave,Highland Ave
+7075*,US 441 (Orange Blossom Tr),Sheeler Rd,Roger Williams Rd
+610,Ustler Rd,Welch Rd,Sandpiper Rd
+612,Ustler Rd,Sandpiper Rd,Tanglewild St
+502,Vick Rd,Martin St,Welch Rd
+8150*,Vick Rd,Old Dixie Hwy,Ashworth Overlook Dr
+8151*,Vick Rd,Lester Rd,Ponkan Rd
+503,Vick Rd,Welch Rd,Lake Francis Dr
+532,Vick Rd,Ashworth Overlook Dr,Martin St
+533,Vick Rd,Lake Francis Dr,Lester Rd
+525,Vick Rd,US 441,Old Dixie Hwy
+534,Vick Road,Ponkan Road,Lester Road
+627,Votaw Rd,Thompson Rd,Wekiva Springs Rd
+626,Votaw Rd,Christiana Ave,Thompson Rd
+625,Votaw Rd,Park Ave,Christiana Ave
+606,Wekiwa Springs Rd/Piedmont-Wekiwa Rd/Hiawassee Rd,Piedmont Lakes Blvd,US 441
+"(799, 798)*",Wekiwa Springs Rd/Piedmont-Wekiwa Rd/Hiawassee Rd,Welch Rd,Votaw Rd
+25*,Wekiwa Springs Rd/Piedmont-Wekiwa Rd/Hiawassee Rd,Votaw Rd,SR 436
+330*,Wekiwa Springs Rd/Piedmont-Wekiwa Rd/Hiawassee Rd,SR 436,Piedmont Lakes Blvd
+331*,Wekiwa Springs Rd/Piedmont-Wekiwa Rd/Hiawassee Rd,US 441,CR 424 (Apopka Blvd)
+7115*,Wekiwa Springs Rd/Piedmont-Wekiwa Rd/Hiawassee Rd,CR 424 (Apopka Blvd),SR 414
+65*,Wekiwa Springs Rd/Piedmont-Wekiwa Rd/Hiawassee Rd,Beggs Rd,Clarcona-Ocoee Rd
+223,Wekiwa Springs Rd/Piedmont-Wekiwa Rd/Hiawassee Rd,SR 414,Beggs Rd
+7049*,Welch Rd,Ustler Road,Thompson Rd
+2017*,Welch Rd,Vick Rd,Rock Springs Rd
+7049*,Welch Rd,Thompson Rd,Wekiva Springs Rd
+624,Welch Rd,Rock Springs Rd,Ustler Road
+700,Woodfield Oaks Dr,Arbor Way,Regal St
+8152*,Yothers Rd,Hermit Smith Rd,Plymouth-Sorrento Rd (CR 437)
+800,Yothers Rd,US 441,Hermit Smith Rd
