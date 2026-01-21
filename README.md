@@ -26,5 +26,9 @@
   
 ### Segments Significance Test
 
-    - Give user the option to locate the site on the map with Search. bar using Google Maps API, locate sites and put the pointer for buffer calculations
-    - Create a 50/50 table view with map. can select segments by clicking on map or using the table view and show the results of the buffer calculations
+    - Give user the option to locate the site on the map with Search. bar using Google Maps API, 
+    - Do buffer calculations
+    - Create a 50/50 table view with map. 
+    - Select segments by clicking on map or 
+    - Using the table view 
+    - Show the results of the buffer calculations as default view
