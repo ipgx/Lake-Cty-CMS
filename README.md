@@ -23,3 +23,8 @@
     - Signal and Stop Sign dataset : Intersections
     - 5-10 year traffic counts to put on the map 
       - All CMS Sheets
+  
+### Segments Significance Test
+
+    - Give user the option to locate the site on the map with Search. bar using Google Maps API, locate sites and put the pointer for buffer calculations
+    - Create a 50/50 table view with map. can select segments by clicking on map or using the table view and show the results of the buffer calculations
